@@ -22,10 +22,10 @@ SIGN-IN BÖLMƏSİ ÜÇÜN
 
 Qeyd : istifadə edəcəyiniz verilənlər bazası usersystem.sql faylıdır.
 Lazım olabiləcək qaynaqlar:
--MySQL Cheatset https://gist.github.com/hofmannsven/9164408
--Cookies http://www.w3schools.com/php/php_cookies.asp
--Sessions http://www.w3schools.com/php/php_sessions.asp
--Redirection http://www.w3schools.com/php/func_http_header.asp
+1.MySQL Cheatset https://gist.github.com/hofmannsven/9164408
+2.Cookies http://www.w3schools.com/php/php_cookies.asp
+3.Sessions http://www.w3schools.com/php/php_sessions.asp
+4.Redirection http://www.w3schools.com/php/func_http_header.asp
 
 ARTIQ FORK EDƏRƏK İŞƏ BAŞLAYABİLƏRSİNİZ.UĞURLAR HAMIYA
 
