@@ -28,10 +28,6 @@ Lazım olabiləcək qaynaqlar:
 4.	Redirection http://www.w3schools.com/php/func_http_header.asp
 
 
-ARTIQ FORK EDƏRƏK İŞƏ BAŞLAYABİLƏRSİNİZ.UĞURLAR HAMIYA
+ARTIQ FORK EDƏRƏK İŞƏ BAŞLAYABİLƏRSİNİZ.UĞURLAR HAMIYA!!
 
-
-
-
- 
 
