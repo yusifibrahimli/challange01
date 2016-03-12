@@ -20,6 +20,12 @@ SIGN-IN BÖLMƏSİ ÜÇÜN
 5.	admin_page.php səhifəsində qeydiyyatdan keçmiş bütün istifadəçilərin məlumatları cədvəl şəklində ekranda görünməli və DELETE butonu ilə uyğun sətir silinə bilməlidir.(admin_page.html də struktur verilib.)
 
 
+Qeyd : istifadə edəcəyiniz verilənlər bazası usersystem.sql faylıdır.
+
+ARTIQ FORK EDƏRƏK İŞƏ BAŞLAYABİLƏRSİNİZ.UĞURLAR HAMIYA
+
+
+
 
  
 
