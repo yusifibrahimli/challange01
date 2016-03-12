@@ -1,4 +1,4 @@
-# challange01
+# Code Academy ikili proqramlama tətbiqi..
 
 Sizden teleb olunan HTML / CSS /JS faylları verilmiş  bu sistemin PHP / MySQL hissəsini yazmaqdir.
 
